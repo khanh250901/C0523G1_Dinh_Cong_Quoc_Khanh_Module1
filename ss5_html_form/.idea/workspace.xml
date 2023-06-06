@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c1f22d6-3037-46dd-ae2a-dbcdde53ba30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/thoi khoa bieu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thời khóa biểu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tạo form lấy survey.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tạo form người dùng.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tạo form đơn giản.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thoi khoa bieu.html" beforeDir="false" afterPath="$PROJECT_DIR$/thoi khoa bieu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thời khóa biểu.html" beforeDir="false" afterPath="$PROJECT_DIR$/thời khóa biểu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tạo form đơn giản.html" beforeDir="false" afterPath="$PROJECT_DIR$/tạo form đơn giản.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686020527850</updated>
-      <workItem from="1686020528887" duration="19999000" />
+      <workItem from="1686020528887" duration="27068000" />
     </task>
     <servers />
   </component>
