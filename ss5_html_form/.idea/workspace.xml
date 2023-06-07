@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c1f22d6-3037-46dd-ae2a-dbcdde53ba30" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bàn cờ vua.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bàn cờ vua.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tạo form lấy survey.html" beforeDir="false" afterPath="$PROJECT_DIR$/tạo form lấy survey.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,12 +41,16 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.Bàn cờ vua.html">
+    <configuration name="Bàn cờ vua.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ss5_html_form/ss5_html_form/Bàn cờ vua.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="tạo form người dùng.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ss5_html_form/ss5_html_form/tạo form người dùng.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Bàn cờ vua.html" />
         <item itemvalue="JavaScript Debug.tạo form người dùng.html" />
       </list>
     </recent_temporary>
@@ -58,7 +64,9 @@
       <option name="presentableId" value="Default" />
       <updated>1686020527850</updated>
       <workItem from="1686020528887" duration="29282000" />
-      <workItem from="1686059668167" duration="3615000" />
+      <workItem from="1686059668167" duration="3650000" />
+      <workItem from="1686107737218" duration="13000" />
+      <workItem from="1686111064415" duration="7071000" />
     </task>
     <servers />
   </component>
